@@ -1,0 +1,25 @@
+nav ul{
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #1c356c;
+}
+nav li{
+    float: left;
+}
+nav li a{
+    display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+nav li a:hover{
+    color: rgb(76, 77, 79);
+}
+
+/* lazy to create a new file */
+h2,h3{
+    color: rgb(40, 38, 130);
+}

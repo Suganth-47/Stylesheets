@@ -1,0 +1,20 @@
+.col {
+    flex: 50%;
+  padding: 5px;
+}
+
+.container {
+  display: flex;
+}
+
+.lab_img{
+    max-width: 300px;
+    height: auto;
+    width: auto;
+    align-self:stretch;
+}
+.img{
+    height: auto;
+    width: auto;
+    align-self: stretch;
+}
