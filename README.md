@@ -1,3 +1,1 @@
-Web technology lab 2nd ex
-
-just for college
+created a college website to try css
